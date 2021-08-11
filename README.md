@@ -2,7 +2,7 @@
 paper:https://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf
 
 Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
-使用 Part Affinity Fields 的实时多人 2D 姿态估计
+(使用 Part Affinity Fields 的实时多人 2D 姿态估计)
 
 本文算法主要流程如下：
 ![image](https://user-images.githubusercontent.com/47564814/128984609-c7757d88-be49-4836-b235-396d5eee5ed1.png)
